@@ -1,3 +1,7 @@
+This is clone of http://www.gnu.org/software/hello/ package for ppa testing purposes  
+  
+------------------------------------------------------------------------------  
+  
 This is the README file for the GNU Hello distribution.
 Hello prints a friendly greeting.  It also serves as a sample GNU
 package, showing practices that may be useful for GNU projects.

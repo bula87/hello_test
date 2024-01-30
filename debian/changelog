@@ -1,3 +1,9 @@
+hello (2.10-2ubuntu4) focal; urgency=low
+
+  * Add test output during installation
+
+ -- Wojciech <wojciech@laptop>  Mon, 29 Jan 2024 17:31:05 +0100
+
 hello (2.10-2ubuntu2) eoan; urgency=medium
 
   * Handle exit code 77 for skipped autopkgtests.
